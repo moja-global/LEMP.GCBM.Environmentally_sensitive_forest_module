@@ -1,7 +1,7 @@
 #  Evironmentally Sensitive Forest Module
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-This repository is reserved for the work under the Linux Expanded Mentorship Program. This program is designed to help developers with necessary skills — many of whom are first-time open source contributors — experiment, learn, and contribute effectively to open source communities. This repo covers the development of a environmentally sensitive forest module for GCBM using data from South-Korea. 
+This repository is reserved for the work under the Linux Expanded Mentorship Program (LEMP). This program is designed to help developers with necessary skills — many of whom are first-time open source contributors — experiment, learn, and contribute effectively to open source communities. This repo covers the development of a environmentally sensitive forest module for GCBM using data from South-Korea. 
 
 ## How to Get Involved?  
 
