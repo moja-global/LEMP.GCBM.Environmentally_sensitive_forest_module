@@ -33,9 +33,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Maintainers Reviewers Ambassadors Coaches
 
-The following people are Maintainers Reviewers Ambassadors or Coaches  
+The following people are Maintainers Reviewers Ambassadors or Coaches
 
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>  
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></td><td align="center"><a href="https://github.com/mtbdeligt"><img src="https://avatars3.githubusercontent.com/u/16447169?v=4" width="100px;" alt="mtbdeligt"/><br /><sub><b>mtbdeligt</b></sub></a><br /><a href="https://github.com/moja-global/About-moja-global/commits?author=mtbdeligt" title="Documentation">📖</a></tr></table>
 
 **Maintainers** review and accept proposed changes  
 **Reviewers** check proposed changes before they go to the Maintainers  
