@@ -24,7 +24,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a></td></tr></table>
+<table><tr><td align="center"><a href="http://moja.global"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt="moja global"/><br /><sub><b>moja global</b></sub></a><br /><a href="#projectManagement-moja-global" title="Project Management">📆</a>
+  <td align="center"><a href="https://github.com/yjko2"><img src="https://avatars2.githubusercontent.com/u/68292564?s=80&v=4" width="100px;" alt=""/><br /><sub><b>Youngjin</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.Projections/commits?author=yjko2" title="Documentation">:book:</a></td>
+</td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -35,7 +37,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 The following people are Maintainers Reviewers Ambassadors or Coaches
 
-<table><tr><td align="center"><a href="https://github.com/yjko2"><img src="https://avatars1.githubusercontent.com/u/19564969?v=4" width="100px;" alt=""/><br /><sub><b>Youngjin</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.Projections/commits?author=yjko2" title="Documentation">📖</a></td>
+<table><tr><td align="center"><a href="https://github.com/yjko2"><img src="https://avatars2.githubusercontent.com/u/68292564?s=80&v=4" width="100px;" alt=""/><br /><sub><b>Youngjin</b></sub></a><br /><a href="https://github.com/moja-global/FLINT.Projections/commits?author=yjko2" title="Documentation">:book:</a></td>
     <td align="center"><a href="https://github.com/mfellows"><img src="https://avatars0.githubusercontent.com/u/8548157?v=4" width="100px;" alt=""/><br /><sub><b>Max Fellows</b></sub></a><br /><a href="https://github.com/moja-global/About_moja_global/commits?author=mfellows" title="Code">💻</a></td></tr></table>
     
 **Maintainers** review and accept proposed changes  
